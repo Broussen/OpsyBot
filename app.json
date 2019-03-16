@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "description": "Bot discord",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "OpsyBot",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
