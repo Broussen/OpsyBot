@@ -1,0 +1,15 @@
+2019-02-28T16:54:33: PM2 log: ===============================================================================
+2019-02-28T16:54:33: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-02-28T16:54:33: PM2 log: Time                 : Thu Feb 28 2019 16:54:33 GMT+0100 (GMT+01:00)
+2019-02-28T16:54:33: PM2 log: PM2 version          : 3.3.1
+2019-02-28T16:54:33: PM2 log: Node.js version      : 10.9.0
+2019-02-28T16:54:33: PM2 log: Current arch         : x64
+2019-02-28T16:54:33: PM2 log: PM2 home             : C:\Users\Bastien\.pm2
+2019-02-28T16:54:33: PM2 log: PM2 PID file         : C:\Users\Bastien\.pm2\pm2.pid
+2019-02-28T16:54:33: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2019-02-28T16:54:33: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2019-02-28T16:54:33: PM2 log: Application log path : C:\Users\Bastien\.pm2\logs
+2019-02-28T16:54:33: PM2 log: Process dump file    : C:\Users\Bastien\.pm2\dump.pm2
+2019-02-28T16:54:33: PM2 log: Concurrent actions   : 2
+2019-02-28T16:54:33: PM2 log: SIGTERM timeout      : 1600
+2019-02-28T16:54:33: PM2 log: ===============================================================================
